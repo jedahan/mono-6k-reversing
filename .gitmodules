@@ -1,0 +1,3 @@
+[submodule "HC32F4A0"]
+	path = HC32F4A0
+	url = https://github.com/SoCXin/HC32F4A0.git
