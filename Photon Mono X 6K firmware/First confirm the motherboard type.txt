@@ -1,0 +1,3 @@
+The Photon Mono X 6K printer has two motherboard versions, including the H7 motherboard and the HC motherboard.
+You may distinguish these two types of motherboards according to the ID serial number in the machine system.
+H7 motherboard ID shows a long series of numbers, and for HC motherboard ID, its last 2 digits of the ID serial number ends with HD.

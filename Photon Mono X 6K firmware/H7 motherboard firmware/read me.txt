@@ -1,0 +1,4 @@
+How to update the firmware
+1. Copy the bin files in the folder to the root directory of the USB drive
+2. Print the "PMX6K_F005.bin" file
+3. The firmware will update successfully
